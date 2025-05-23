@@ -1,0 +1,102 @@
+[
+    {
+        "pregunta": "¿Qué tipo de lenguaje es JavaScript?",
+        "opciones": [
+            "Compilado",
+            "Marcado",
+            "Interpretado",
+            "Estilizado"
+        ],
+        "respuesta": "Interpretado"
+    },
+    {
+        "pregunta": "¿Cuál es el símbolo para comentarios de una línea en JavaScript?",
+        "opciones": [
+            "//",
+            "/*",
+            "#",
+            "<!--"
+        ],
+        "respuesta": "//"
+    },
+    {
+        "pregunta": "¿Qué palabra clave se usa para declarar una variable?",
+        "opciones": [
+            "dim",
+            "var",
+            "int",
+            "string"
+        ],
+        "respuesta": "var"
+    },
+    {
+        "pregunta": "¿Cuál método convierte un string en un número entero?",
+        "opciones": [
+            "parseInt()",
+            "toInt()",
+            "convert()",
+            "parseNumber()"
+        ],
+        "respuesta": "parseInt()"
+    },
+    {
+        "pregunta": "¿Qué objeto representa la ventana del navegador?",
+        "opciones": [
+            "document",
+            "navigator",
+            "screen",
+            "window"
+        ],
+        "respuesta": "window"
+    },
+    {
+        "pregunta": "¿Cómo se escribe una función en JavaScript?",
+        "opciones": [
+            "function miFuncion() {}",
+            "def miFuncion() {}",
+            "fun miFuncion() {}",
+            "function:miFuncion() {}"
+        ],
+        "respuesta": "function miFuncion() {}"
+    },
+    {
+        "pregunta": "¿Qué método se usa para imprimir en la consola?",
+        "opciones": [
+            "log.console()",
+            "print()",
+            "console.log()",
+            "alert.log()"
+        ],
+        "respuesta": "console.log()"
+    },
+    {
+        "pregunta": "¿Cómo se accede a un elemento por su id en el DOM?",
+        "opciones": [
+            "getElementById()",
+            "getElement()",
+            "selectById()",
+            "queryById()"
+        ],
+        "respuesta": "getElementById()"
+    },
+    {
+        "pregunta": "¿Qué tipo de datos representa 'true' y 'false'?",
+        "opciones": [
+            "Number",
+            "String",
+            "Boolean",
+            "Object"
+        ],
+        "respuesta": "Boolean"
+    },
+    {
+        "pregunta": "¿Qué estructura se usa para decisiones condicionales?",
+        "opciones": [
+            "if/else",
+            "do/while",
+            "loop",
+            "try/catch"
+        ],
+        "respuesta": "if/else"
+    }
+]

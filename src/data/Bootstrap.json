@@ -1,0 +1,102 @@
+[
+    {
+        "pregunta": "¿Qué es Bootstrap?",
+        "opciones": [
+            "Un CMS",
+            "Una base de datos",
+            "Un framework CSS",
+            "Un compilador de JavaScript"
+        ],
+        "respuesta": "Un framework CSS"
+    },
+    {
+        "pregunta": "¿Qué clase se usa para hacer un botón en Bootstrap?",
+        "opciones": [
+            "btn",
+            "button",
+            "boton",
+            "button-style"
+        ],
+        "respuesta": "btn"
+    },
+    {
+        "pregunta": "¿Cuál es la clase para un contenedor con ancho fijo?",
+        "opciones": [
+            "container-fixed",
+            "container",
+            "container-full",
+            "container-static"
+        ],
+        "respuesta": "container"
+    },
+    {
+        "pregunta": "¿Qué clase se usa para una fila en el sistema de rejilla de Bootstrap?",
+        "opciones": [
+            "grid-row",
+            "container-row",
+            "row",
+            "grid"
+        ],
+        "respuesta": "row"
+    },
+    {
+        "pregunta": "¿Qué clase se utiliza para hacer un diseño responsive en columnas?",
+        "opciones": [
+            "col-responsive",
+            "col",
+            "column",
+            "col-xs"
+        ],
+        "respuesta": "col"
+    },
+    {
+        "pregunta": "¿Cómo se aplica un margen en Bootstrap?",
+        "opciones": [
+            "m-1",
+            "margin-1",
+            "mg-1",
+            "mrgn-1"
+        ],
+        "respuesta": "m-1"
+    },
+    {
+        "pregunta": "¿Qué clase aplica texto centrado?",
+        "opciones": [
+            "text-center",
+            "align-text-center",
+            "center-text",
+            "text-align-center"
+        ],
+        "respuesta": "text-center"
+    },
+    {
+        "pregunta": "¿Qué clase hace que un botón sea de color primario?",
+        "opciones": [
+            "btn-main",
+            "btn-primary",
+            "btn-color-primary",
+            "btn-main-color"
+        ],
+        "respuesta": "btn-primary"
+    },
+    {
+        "pregunta": "¿Qué versión de Bootstrap introdujo el sistema de rejilla Flexbox?",
+        "opciones": [
+            "3",
+            "4",
+            "5",
+            "2"
+        ],
+        "respuesta": "4"
+    },
+    {
+        "pregunta": "¿Cuál clase elimina el padding de un elemento?",
+        "opciones": [
+            "p-0",
+            "padding-none",
+            "pd-0",
+            "no-padding"
+        ],
+        "respuesta": "p-0"
+    }
+]

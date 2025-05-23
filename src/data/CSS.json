@@ -1,0 +1,102 @@
+[
+    {
+        "pregunta": "¿Qué significa CSS?",
+        "opciones": [
+            "Colorful Style Sheets",
+            "Creative Style Sheets",
+            "Cascading Style Sheets",
+            "Computer Style Sheets"
+        ],
+        "respuesta": "Cascading Style Sheets"
+    },
+    {
+        "pregunta": "¿Qué propiedad se utiliza para cambiar el color del texto?",
+        "opciones": [
+            "font-color",
+            "text-color",
+            "color",
+            "text-style"
+        ],
+        "respuesta": "color"
+    },
+    {
+        "pregunta": "¿Cómo se aplica una hoja de estilos externa en HTML?",
+        "opciones": [
+            "style src='estilo.css'",
+            "stylesheet>estilo.css</stylesheet",
+            "link rel='stylesheet' href='estilo.css'",
+            "css href='estilo.css'"
+        ],
+        "respuesta": "link rel='stylesheet' href='estilo.css'"
+    },
+    {
+        "pregunta": "¿Qué unidad es relativa al tamaño de fuente del elemento padre?",
+        "opciones": [
+            "px",
+            "em",
+            "%",
+            "pt"
+        ],
+        "respuesta": "em"
+    },
+    {
+        "pregunta": "¿Qué propiedad se usa para centrar un texto?",
+        "opciones": [
+            "text-align",
+            "center",
+            "align-text",
+            "font-align"
+        ],
+        "respuesta": "text-align"
+    },
+    {
+        "pregunta": "¿Cuál propiedad se utiliza para cambiar el tipo de fuente?",
+        "opciones": [
+            "font-style",
+            "font-family",
+            "text-font",
+            "font-type"
+        ],
+        "respuesta": "font-family"
+    },
+    {
+        "pregunta": "¿Cómo se selecciona un elemento con id 'menu' en CSS?",
+        "opciones": [
+            "#menu",
+            ".menu",
+            "menu",
+            "$menu"
+        ],
+        "respuesta": "#menu"
+    },
+    {
+        "pregunta": "¿Cuál es la propiedad para definir el espacio interno de un elemento?",
+        "opciones": [
+            "margin",
+            "spacing",
+            "padding",
+            "border-spacing"
+        ],
+        "respuesta": "padding"
+    },
+    {
+        "pregunta": "¿Qué propiedad se usa para ocultar un elemento sin eliminarlo del DOM?",
+        "opciones": [
+            "display: none",
+            "visibility: hidden",
+            "opacity: 0",
+            "hidden: true"
+        ],
+        "respuesta": "visibility: hidden"
+    },
+    {
+        "pregunta": "¿Cuál es la propiedad para cambiar el fondo de un elemento?",
+        "opciones": [
+            "background-color",
+            "color-background",
+            "bgcolor",
+            "background"
+        ],
+        "respuesta": "background-color"
+    }
+]

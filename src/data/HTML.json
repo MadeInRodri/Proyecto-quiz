@@ -1,0 +1,102 @@
+[
+{
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": [
+    "Hyper Text Marking Language",
+    "Hyper Transfer Markup Language",
+    "Hyper Text Markup Language",
+    "High Text Machine Language"
+    ],
+    "respuesta": "Hyper Text Markup Language"
+},
+{
+    "pregunta": "¿Cuál es el propósito de la etiqueta 'a' en HTML?",
+    "opciones": [
+    "Agregar imágenes",
+    "Crear listas",
+    "Crear enlaces",
+    "Mostrar videos"
+    ],
+    "respuesta": "Crear enlaces"
+},
+{
+    "pregunta": "¿Qué etiqueta se usa para insertar una imagen?",
+    "opciones": [
+    "image",
+    "img",
+    "pic",
+    "src"
+    ],
+    "respuesta": "img"
+},
+{
+    "pregunta": "¿Cuál de las siguientes etiquetas crea una lista desordenada?",
+    "opciones": [
+    "ol",
+    "ul",
+    "li",
+    "dl"
+    ],
+    "respuesta": "ul"
+},
+{
+    "pregunta": "¿Qué atributo se usa para especificar una dirección web en una etiqueta <a>?",
+    "opciones": [
+    "link",
+    "href",
+    "src",
+    "url"
+    ],
+    "respuesta": "href"
+},
+{
+    "pregunta": "¿Qué etiqueta se utiliza para insertar una línea horizontal?",
+    "opciones": [
+    "line",
+    "hr",
+    "br",
+    "div"
+    ],
+    "respuesta": "hr"
+},
+{
+    "pregunta": "¿Qué etiqueta HTML se utiliza para insertar un salto de línea?",
+    "opciones": [
+    "linebreak",
+    "br",
+    "break",
+    "lb"
+    ],
+    "respuesta": "br"
+},
+{
+    "pregunta": "¿Cuál es la etiqueta correcta para definir el encabezado más grande?",
+    "opciones": [
+    "head",
+    "h1",
+    "heading",
+    "h6"
+    ],
+    "respuesta": "h1"
+},
+{
+    "pregunta": "¿Qué elemento HTML define el título de un documento?",
+    "opciones": [
+    "header",
+    "title",
+    "h1",
+    "meta"
+    ],
+    "respuesta": "title"
+},
+{
+    "pregunta": "¿Qué etiqueta se usa para agrupar contenido en bloques?",
+    "opciones": [
+    "span",
+    "section",
+    "div",
+    "group"
+    ],
+    "respuesta": "div"
+}
+]
