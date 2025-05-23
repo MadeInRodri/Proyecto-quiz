@@ -160,7 +160,7 @@ p{
 
 @media(min-width:768px){
   .encabezado{
-    height: 20vh;
+    height: 16vh;
     justify-content:left;
   }
   .encabezado h2{
